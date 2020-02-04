@@ -1,0 +1,14 @@
+(2020-01-14 23:51:37) <center><h1>Ruleta Rusa</h1></center>
+(2020-01-14 23:51:37) 1 - Jose<br>
+(2020-01-14 23:51:37) 2 - Victor<br>
+(2020-01-14 23:51:37) 3 - David<br>
+(2020-01-14 23:51:37) 4 - Pedro<br>
+(2020-01-14 23:51:37) 5 - Eiker<br>
+(2020-01-14 23:51:37) <p>1 - Jose Se dispone a Dispararse<br>
+(2020-01-14 23:51:37) <p> Jugador salvado de Leche Nojoda
+(2020-01-14 23:51:37) <p>2 - Victor Se dispone a Dispararse<br>
+(2020-01-14 23:51:37) <p> Jugador salvado de Leche Nojoda
+(2020-01-14 23:51:37) <p>3 - David Se dispone a Dispararse<br>
+(2020-01-14 23:51:37) <p> Jugador salvado de Leche Nojoda
+(2020-01-14 23:51:37) <p>4 - Pedro Se dispone a Dispararse<br>
+(2020-01-14 23:51:37) <p> Se ha matado por Wuebon, Gracias por jugar :)
