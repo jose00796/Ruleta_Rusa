@@ -1,0 +1,18 @@
+{
+    "name": "miorgullo/ruletarusa",
+    "description": "Autocarga de Composer al Programa Ruleta Rusa",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jose",
+            "email": "josebalboa11@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BlackOps\\": "src/"
+        }
+    }
+}
